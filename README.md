@@ -1,16 +1,7 @@
-# asteroad
+# Asteroad
 
-A new Flutter project.
+### This repository contains code for a small flutter application, asteroad. ###
 
-## Getting Started
+It's an app that uses NASA's NeoWs API to get information about asteroids that have passed near the earth or are likely to and displays in a simple format.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+* To run the app, just clone the repository, and using your favourite IDE, install the app on your phone.
